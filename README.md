@@ -30,3 +30,12 @@ to run Spark job locally
 Ex: Old and new dataframes written to /Users/rajeevsachdeva/tmp/nw/output/477b2360-d0ca-4eac-a573-83d8d9041bb9 
 in parquet format
 ```
+
+**Out of scope:**
+
+Unit testing
+
+**Additional notes**
+
+The project is intended to show general Spark and Scala knowledge to process data files locally, therefore 
+not improvised to produce full featured application.
