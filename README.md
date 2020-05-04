@@ -1,6 +1,6 @@
 # DataEngineer
-The project contains solution to process following three csv data files in Spark and extract meaningful information for 
-analysis. The generated data is stored parquet format on local file system.
+The project contains solution to process following csv data files in Spark and extract meaningful information for 
+analysis. The generated data is stored in parquet format on the local file system.
 
 1. users.csv 
 2. movies.csv 
@@ -38,4 +38,4 @@ Unit testing
 **Additional notes**
 
 The project is intended to show general Spark and Scala knowledge to process data files locally, therefore 
-not improvised to produce full featured application.
+not enhanced to produce full featured application. The scope of work is limited to requirements defined in the exercise.
